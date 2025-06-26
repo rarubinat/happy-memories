@@ -56,9 +56,9 @@ This game was developed as part of my **Final Degree Project**, with a scope lim
 
 ## 📥 Installation
 
-> 💡 The `.exe` is included in the `release/` folder.
+> 💡 The `.exe` is included in the folder.
 
-1. Download the ZIP from the [Releases](#) tab or clone this repository.
+1. Download the ZIP tab or clone this repository.
 2. Unzip the folder and run `HappyMemories.exe` (Windows).
 3. Use keyboard controls to play:
    - `A / D`: Move left and right  
@@ -70,7 +70,8 @@ This game was developed as part of my **Final Degree Project**, with a scope lim
 
 ## 📽️ Demo & Media
 
-> 📸 [Screenshots Folder]
+> 📸 ![general map interfice](https://i.gyazo.com/d5032ceba530931cfe47680236ee7960.png))
+> ![sets character](https://i.gyazo.com/82b9cb2241c5f34c703a28420fee6dc2.png)
 
 ---
 
