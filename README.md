@@ -86,6 +86,4 @@ Contributions are welcome! If you find a bug or have an idea for an enhancement,
 If you find this app useful, consider giving the repository a star! ✨
 
 ## 📄 License
-Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 Spain  
-[CC BY-NC-ND 3.0 ES](http://creativecommons.org/licenses/by-nc-nd/3.0/es/) 
-© 2024 [rarubinat](https://github.com/rarubinat)
+All Rights Reserved © 2024 [rarubinat](https://github.com/rarubinat)
