@@ -9,6 +9,14 @@
 
 ---
 
+## 📽️ Demo
+
+https://github.com/user-attachments/assets/4e33e04a-9013-4606-a975-53718cc3d7a0
+
+https://github.com/user-attachments/assets/e7b2aba9-56f5-4ffd-bdfc-9cc98fbb3ca4
+
+---
+
 ## 🎮 About the Game
 
 Happy Memories is my first video game developed using Unity. It is a 2D platformer that I designed and built entirely as part of my learning experience in game development.
@@ -65,13 +73,6 @@ This game was developed as part of my **Final Degree Project**, with a scope lim
    - `W / S`: Up and down (ladder-type objects)  
    - `Space`: Jump  
    - `ESC`: Pause the game  
-
----
-
-## 📽️ Demo & Media
-
-> 📸 ![general map interfice](https://i.gyazo.com/d5032ceba530931cfe47680236ee7960.png)
-> ![sets character](https://i.gyazo.com/82b9cb2241c5f34c703a28420fee6dc2.png)
 
 ---
 
